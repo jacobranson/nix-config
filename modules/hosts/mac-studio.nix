@@ -3,6 +3,7 @@
     includes = [
       <features/homebrew>
       <features/fastfetch>
+      <features/godot>
     ];
   };
 }
