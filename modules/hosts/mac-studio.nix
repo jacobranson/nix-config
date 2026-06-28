@@ -3,8 +3,8 @@
     includes = [
       <features/homebrew>
       <features/fastfetch>
+      <features/vscode>
       <features/godot>
     ];
   };
 }
-
